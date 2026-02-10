@@ -9,4 +9,5 @@ Repository for all files and data for the class project for Predictive Modeling 
 
 ## Navigating this Repository
 - Click on the folder titled "Papers" to upload all documentation regarding the project including those for the literature review and citations
+- Click on the folder titled "Files" to upload all relevant datasests and other files (.csv, .txt, etc) 
 - Click on the links above in this "README.md" file to go to our shared google docs and the Colab notebook with the code for data analysis
