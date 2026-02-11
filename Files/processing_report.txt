@@ -1,0 +1,18 @@
+BODYMETA HUMAN-ONLY DATA PREPARATION REPORT
+==================================================
+
+ZIP file: C:\Users\ongt9\Downloads\BodyMeta_all_data.zip
+Output folder: C:\Users\ongt9\Downloads\BodyMeta_Human_Only_Final
+
+Files processed:
+  - 16S data: Human_Only_16S_Data.csv (652 rows)
+  - Associated microbes: Human_Only_Associated_Microbes.csv (99,681 rows)
+  - Literature-based: Human_Only_Literature_Based.csv (1,237 rows)
+
+NEXT STEPS:
+1. Open the output folder in File Explorer.
+2. Run the ML starter script:
+   cd C:\Users\ongt9\Downloads\BodyMeta_Human_Only_Final
+   python bodymeta_ml_starter.py
+3. Explore the CSV files in Excel or a text editor.
+4. Customise the ML script for your own research question.
