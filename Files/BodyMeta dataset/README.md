@@ -3,7 +3,7 @@
 Data was retrieved from https://bodymeta.omicsbio.info/
 
 
-# Data Description
+# Data Description of Original Datasets
 “Literature_information_lit_based.txt”
       - Literature studies (no raw data, just summaries)
 
@@ -12,4 +12,7 @@ Data was retrieved from https://bodymeta.omicsbio.info/
 
 “Literature_information_16S_based.txt.txt”
       - Has project IDs; links to the actual raw sequencing data on NCBI
+
+
+# Other files have been cleaned for human only analysis
 
