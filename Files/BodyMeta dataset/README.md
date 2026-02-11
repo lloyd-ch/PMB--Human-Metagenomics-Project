@@ -15,5 +15,8 @@ Data was retrieved from https://bodymeta.omicsbio.info/
 
 
 # Other files have been cleaned for human only analysis
- "Human_Only_Associated_Microbes.csv (this one for ML)" - contains the microbe-disease associations with directionality.
+ "Human_Only_Associated_Microbes.csv (this one for ML)" - contains the microbe-disease associations with directionality
+ 
  "Human_Only_Literature_Based.csv" - need this for body site information
+
+ "Human_Only_16S_Data.csv" - NOT using this for association level studies
