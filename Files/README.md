@@ -5,10 +5,11 @@ This folder is for sharing project files.
 
 ## Instructions
 1. **Navigate** to the `Files/` folder
-2. Click **"Add file"** → **"Upload files"**
-3. **Drag and drop** files or click to browse
-4. Add a **brief description** of what you're uploading
-5. Click **"Commit changes"**
+2. **Naviagte** to the specific project folder
+3. Click **"Add file"** → **"Upload files"**
+4. **Drag and drop** files or click to browse
+5. Add a **brief description** of what you're uploading
+6. Click **"Commit changes"**
 
 ## Rules
 1. Keep file names descriptive
